@@ -15,4 +15,9 @@ codigo_mat = input("Ingresa el código de material: ").upper()
 descripcion = input("Ingresa la descripción del material: ").capitalize()
 with open("maestro_materiales.csv","a") as registro:
     registro.write(f"{codigo_mat}, {descripcion}\n")
-# 5: Refuerzo de Vocabulario y Git
+# 5: Creación del Archivo de Práctica (Código)
+
+nombre_reporte = "Reporte Cierre de Mes"
+fecha = "2025-12-09"
+with open("inventario_final.py", "w") as f:
+    f.write(f"El reporte {nombre_reporte} fue generado el {fecha}")
