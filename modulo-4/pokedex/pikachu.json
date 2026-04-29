@@ -1,0 +1,19 @@
+{
+    "nombre": "pikachu",
+    "peso": 60,
+    "altura": 4,
+    "tipos": [
+        "electric"
+    ],
+    "habilidades": [
+        "static",
+        "lightning-rod"
+    ],
+    "movimientos": [
+        "mega-punch",
+        "pay-day",
+        "thunder-punch",
+        "slam",
+        "double-kick"
+    ]
+}

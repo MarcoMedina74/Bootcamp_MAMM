@@ -1,0 +1,20 @@
+{
+    "nombre": "eevee",
+    "peso": 65,
+    "altura": 3,
+    "tipos": [
+        "normal"
+    ],
+    "habilidades": [
+        "run-away",
+        "adaptability",
+        "anticipation"
+    ],
+    "movimientos": [
+        "pay-day",
+        "double-kick",
+        "sand-attack",
+        "headbutt",
+        "tackle"
+    ]
+}
